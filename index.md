@@ -1,9 +1,7 @@
-# JiaRui Zhang
+### Personal information
+#### Name：JiaRui Zhang
+#### School: Institute of Information Engineering, Chinese Academy of Science
+#### E-mail:zhangjiarui@iie.ac.cn
 
-###Personal information
-####Name：JiaRui Zhang
-####School: Institute of Information Engineering, Chinese Academy of Science
-####E-mail:zhangjiarui@iie.ac.cn
-
-###Research Interests
+### Research Interests
 Neural Machine Translation
