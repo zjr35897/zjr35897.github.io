@@ -6,7 +6,7 @@
 ## Research Interests
 Neural Machine Translation
 
-table border="0">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>张三</h1>
